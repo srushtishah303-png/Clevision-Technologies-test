@@ -1,2 +1,5 @@
 # Clevision-Technologies-test
-interview test
+Students record in JAVASCRIPT using .js
+Aptitude questions
+Responsive page
+
