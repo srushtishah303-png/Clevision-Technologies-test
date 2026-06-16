@@ -1,7 +1,7 @@
 1. If a train travels 60 km in 45 minutes, what is its speed in km/h?
 Ans.80
 2. A shopkeeper sells an item for ₹450 after giving a 10% discount. What was the original price?
-Ans.495
+Ans.500
 3.Find the next number in the series: 2, 6, 12, 20, 30, ?
 Ans.42
 4.If CODING is written as DPEJOH, how is FLOWER written using the same code?
